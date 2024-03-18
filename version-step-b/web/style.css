@@ -1,0 +1,4 @@
+/* style.css */
+.bg-dark-blue-to-silver {
+  background-image: linear-gradient(to right, skyBlue, lightBlue);
+}
